@@ -8,9 +8,10 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=qqsir-dev&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=qqsir-dev&theme=dark&hide_border=true" width = 400>
 </p>
+
 ### 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+## 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
