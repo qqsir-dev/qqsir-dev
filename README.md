@@ -8,7 +8,7 @@
 </p>
 
 ## 💻 Working Environment
-[![Azure](https://img.shields.io/badge/Azure%20-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://portal.azure.com/)
+[![Azure](https://img.shields.io/badge/Azure%20-00adef?style=flat-square&logo=azure&logoColor=ffffff)](https://portal.azure.com/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![Mac OS](https://img.shields.io/badge/MacOS%20Sonoma-a15522?style=flat-square&logo=MacOS&Color=ffffff)](https://support.apple.com/zh-cn/macos/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://cn.ubuntu.com/download/desktop)
