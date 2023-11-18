@@ -16,7 +16,7 @@
 [![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro%2011-CCCCCC?style=flat-square&logo=jamf&logoColor=ffffff)](https://www.jamf.com/)
 
 ## 📱 Devices In Use
-[![Haiwei P40 Pro](https://img.shields.io/badge/Haiwei%20P40%20Pro-fd5355?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/phones/p40-pro/)
 [![Apple iPhone15Pro](https://img.shields.io/badge/Apple%20iPhone%2015%20Pro-adse58?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-15-pro/)
+[![Haiwei P40 Pro](https://img.shields.io/badge/Haiwei%20P40%20Pro-fd5355?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/phones/p40-pro/)
 
 # <a href="https://nexuscloud.ch/aff.php?aff=5">我用的机场，性价比目前最高，速度很快！</a>
