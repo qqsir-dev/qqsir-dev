@@ -13,7 +13,7 @@
 [![Mac OS](https://img.shields.io/badge/MacOS%20Sonoma-a15522?style=flat-square&logo=MacOS&Color=ffffff)](https://support.apple.com/zh-cn/macos/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://cn.ubuntu.com/download/desktop)
 [![iOS 17](https://img.shields.io/badge/iOS%2017-b54bbf?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-17/)
-[![jamf](https://img.shields.io/badge/jamf%2011-CCCCCC?style=flat-square&logo=jamf&logoColor=ffffff)](https://www.jamf.com/)
+[![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro%2011-CCCCCC?style=flat-square&logo=jamf&logoColor=ffffff)](https://www.jamf.com/)
 
 ## 📱 Devices In Use
 [![Haiwei P40 Pro](https://img.shields.io/badge/Haiwei%20P40%20Pro-fd5355?style=flat-square&logo=huawei&logoColor=ffffff)](https://consumer.huawei.com/cn/phones/p40-pro/)
