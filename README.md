@@ -14,6 +14,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2024%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://cn.ubuntu.com/download/desktop)
 [![iOS 18](https://img.shields.io/badge/iOS%2018-b54bbf?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-18/)
 [![Jamf Pro](https://img.shields.io/badge/Jamf%20Pro%2024-CCCCCC?style=flat-square&logo=jamf&logoColor=ffffff)](https://www.jamf.com/)
+[![ESXi](https://img.shields.io/badge/Esxi%208.0-8a8a8a?style=flat-square&logo=vmware&logoColor=ffffff)](https://www.vmware.com/)
 
 ## 📱 Devices In Use
 [![Apple iPhone15Pro](https://img.shields.io/badge/Apple%20iPhone%2015%20Pro-adse58?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-15-pro/)
