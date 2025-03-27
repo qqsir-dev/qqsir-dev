@@ -9,7 +9,7 @@
 
 ## 💻 Working Environment
 [![Azure](https://img.shields.io/badge/Azure%20-00adef?style=flat-square&logo=microsoft&logoColor=ffffff)](https://portal.azure.com/)
-[![Windows 11](https://img.shields.io/badge/Windows%2024-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![Mac OS](https://img.shields.io/badge/MacOS%20Sequoia-a15522?style=flat-square&logo=MacOS&Color=ffffff)](https://support.apple.com/zh-cn/macos/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2024%2e10-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://cn.ubuntu.com/download/desktop)
 [![iOS 18](https://img.shields.io/badge/iOS%2018-b54bbf?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-18/)
